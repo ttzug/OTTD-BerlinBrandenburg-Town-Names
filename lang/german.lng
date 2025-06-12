@@ -1,0 +1,16 @@
+##grflangid 0x02
+# This is the German language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Berlin-Brandenburger Stadtnamen
+STR_GRF_DESCRIPTION :Alle offiziellen Ortsteile, Gemeinden und Städte Brandenburgs als Stadtnamen und alle Stadtteile Berlins. Optionen: Berlin, Brandenburg, Berlin und Brandenburg -- BETA: ES WERDEN IMMER ALLE GELADEN
+
+STR_GAME_OPTIONS_TOWN_NAME_Brandenburg :Brandenburg
+STR_GAME_OPTIONS_TOWN_NAME_Berlin :Berlin
+STR_GAME_OPTIONS_TOWN_NAME_BerlinBrandenburg :Berlin und Brandenburg
+
+STR_PARAM_NAME_OPTIONS :Optionen
+STR_PARAM_DESC_OPTIONS :Die Auswahl der Stadtnamen -- DIESER PARAMETER HAT NOCH KEINE FUNKTION UND ES WERDEN IMMER ALLE GELADEN
+STR_PARAM_VALUE_BRANDENBURG :Brandenburg
+STR_PARAM_VALUE_BERLIN :Berlin
+STR_PARAM_VALUE_BERLINBRANDENBURG :Berlin und Brandenburg

@@ -1,0 +1,16 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Berlin-Brandenburg Town Names
+STR_GRF_DESCRIPTION :All Official Brandenburg Cities, Towns and Townparts. And all official Quartiers of Berlin. Options: Berlin, Brandenburg, Berlin and Brandenburg -- BETA ALL NAMES ARE LOADED ALL THE TIME
+
+STR_GAME_OPTIONS_TOWN_NAME_Brandenburg :Brandenburg
+STR_GAME_OPTIONS_TOWN_NAME_Berlin :Berlin
+STR_GAME_OPTIONS_TOWN_NAME_BerlinBrandenburg :Berlin and Brandenburg
+
+STR_PARAM_NAME_OPTIONS :Options
+STR_PARAM_DESC_OPTIONS :Choose the region the town names are coming from -- BETA THIS HAS NO EFFECT, ALL NAMES ARE LOADED ALL THE TIME
+STR_PARAM_VALUE_BRANDENBURG :Brandenburg
+STR_PARAM_VALUE_BERLIN :Berlin
+STR_PARAM_VALUE_BERLINBRANDENBURG :Berlin and Brandenburg
