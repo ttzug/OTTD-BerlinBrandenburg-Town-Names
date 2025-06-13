@@ -21,7 +21,7 @@ grf {
 }
 }
 
-town_names(Brandenburg){
+// town_names(Brandenburg){
 /*
 styles: string(STR_GAME_OPTIONS_TOWN_NAME_Brandenburg);
 {
@@ -2215,6 +2215,10 @@ styles: string(STR_GAME_OPTIONS_TOWN_NAME_Brandenburg);
 	text("Golm", 4),
 	text("Zichow", 4),
 }
+*/
+/*
+town_names(Berlin) {
+if(param[0] == 1) {
 styles: string(STR_GAME_OPTIONS_TOWN_NAME_Berlin);
 {
 	text("Prenzlauer Berg", 16),
@@ -2314,7 +2318,9 @@ styles: string(STR_GAME_OPTIONS_TOWN_NAME_Berlin);
 	text("Blankenfelde", 1),
 	text("Malchow", 1),
 }
-*/
+}
+ */
+town_names(BerlinBrandenburg) {
 styles: string(STR_GAME_OPTIONS_TOWN_NAME_BerlinBrandenburg);
 {
 	text("Berlin", 32),
@@ -4603,7 +4609,7 @@ styles: string(STR_GAME_OPTIONS_TOWN_NAME_BerlinBrandenburg);
 	text("Fredersdorf", 4),
 	text("Golm", 4),
 	text("Zichow", 4),
+//}
 }
-
 }
 
