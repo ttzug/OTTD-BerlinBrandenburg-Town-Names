@@ -4,6 +4,7 @@ grf {
 	desc: string(STR_GRF_DESCRIPTION);
 	version: 2;
 	min_compatible_version: 0;
+//	url : https://github.com/ttzug/OTTD-BerlinBrandenburg-Town-Names;
 	param 0 {
 	nameset {
 		type: int;
@@ -20,11 +21,11 @@ grf {
 	}
 }
 }
-
-// town_names(Brandenburg){
 /*
-styles: string(STR_GAME_OPTIONS_TOWN_NAME_Brandenburg);
+if (param[0]==0) {
 {
+// styles: string(STR_GAME_OPTIONS_TOWN_NAME_Brandenburg);
+//{
 	text("Brandenburg an der Havel", 32),
 	text("Cottbus", 32),
 	text("Frankfurt (Oder)", 32),
@@ -2215,7 +2216,7 @@ styles: string(STR_GAME_OPTIONS_TOWN_NAME_Brandenburg);
 	text("Golm", 4),
 	text("Zichow", 4),
 }
-*/
+}
 /*
 town_names(Berlin) {
 if(param[0] == 1) {
